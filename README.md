@@ -6,3 +6,12 @@ it will improve your skill sets by knowing how a library we use really works
 #### Currently Created Libraries:
 
 - react-if
+
+#### Coming Soon:
+
+- react-query
+
+#### Todos:
+
+- add react-router
+- add typescript
